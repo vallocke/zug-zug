@@ -53,4 +53,6 @@ def zellers(month, day, year):
     print days[R]
 
 zellers("Mar", 10, 1940)
+zellers("Mar", 27, 1976)
+zellers("Aug", 31, 1979)
 
